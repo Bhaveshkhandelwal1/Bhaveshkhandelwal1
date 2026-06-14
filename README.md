@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently interning at **Samsung R&D Bangalore** — building an AI image classification system with MobileNetV3 & EfficientNetV2 (95%+ accuracy, <500ms latency)
+- 🔭 Currently interning at **Samsung R&D Bangalore** 
 - 🧠 Passionate about **LLM applications, RAG pipelines, and DevOps automation**
 - 🏆 NPTEL Topper in Software Engineering · JEE Advanced Qualified (AIR 23,000)
 - 💻 Solved **400+ DSA problems** on LeetCode & GeeksforGeeks
