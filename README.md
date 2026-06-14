@@ -53,15 +53,10 @@ Recruitment platform with **Gemini AI** for resume screening and mock interviews
 
 ---
 
-### 📊 GitHub Stats
+### 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhaveshkhandelwal1&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaveshkhandelwal1&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhaveshkhandelwal1&theme=tokyonight&hide_border=true"/>
+  <img src="https://leetcard.jacoblin.cool/bhaveshkhandelwal_?theme=dark&font=Nunito&ext=heatmap" />
 </p>
 
 ---
