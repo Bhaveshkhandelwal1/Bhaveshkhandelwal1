@@ -12,17 +12,17 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🔭 Currently interning at **Samsung R&D Bangalore** 
-- 🧠 Passionate about **LLM applications, RAG pipelines, and DevOps automation**
-- 🏆 NPTEL Topper in Software Engineering · JEE Advanced Qualified (AIR 23,000)
-- 💻 Solved **400+ DSA problems** on LeetCode & GeeksforGeeks
-- 🎓 B.E. Computer Science @ Ramaiah Institute of Technology · CGPA: **8.66**
+- Currently interning at **Samsung R&D Bangalore** 
+- Passionate about **LLM applications, RAG pipelines, and DevOps automation**
+- NPTEL Topper in Software Engineering · JEE Advanced Qualified (AIR 23,000)
+- Solved **400+ DSA problems** on LeetCode & GeeksforGeeks
+- B.E. Computer Science @ Ramaiah Institute of Technology · CGPA: **8.66**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **AI/ML**
 `LangChain` `FAISS` `RAG` `PyTorch` `OpenCV` `Gemini AI` `Prompt Engineering`
@@ -41,7 +41,7 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 #### ⚖️ AI-Powered Legal Assistance Platform
 Full-stack legal-tech platform with a RAG pipeline using **InLegalBERT + FAISS**, achieving **99%+ factual accuracy** on Indian Penal Code queries. Reduced legal document analysis from 90 min → 3 min.
@@ -53,7 +53,7 @@ Recruitment platform with **Gemini AI** for resume screening and mock interviews
 
 ---
 
-### 🧩 LeetCode Stats
+### LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/bhaveshkhandelwal_?theme=dark&font=Nunito&ext=heatmap" />
@@ -61,13 +61,13 @@ Recruitment platform with **Gemini AI** for resume screening and mock interviews
 
 ---
 
-### 🏅 Achievements
+### Achievements
 
-- 🥇 **NPTEL Topper** — Software Engineering, IIT Kharagpur
-- 🎖️ **NPTEL Elite** — Cloud Computing, IIT Kharagpur (82%)
-- 🤖 **Anthropic** — Introduction to Model Context Protocol
-- 📘 **IBM** — Prompt Engineering for Everyone (June 2026)
-- ⚡ **JEE Advanced** Qualified — AIR 23,000
+-  **NPTEL Topper** — Software Engineering, IIT Kharagpur
+-  **NPTEL Elite** — Cloud Computing, IIT Kharagpur (82%)
+-  **Anthropic** — Introduction to Model Context Protocol
+-  **IBM** — Prompt Engineering for Everyone (June 2026)
+-  **JEE Advanced** Qualified — AIR 23,000
 
 ---
 
