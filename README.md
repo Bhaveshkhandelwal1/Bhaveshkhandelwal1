@@ -43,11 +43,11 @@
 
 ### Featured Projects
 
-#### ⚖️ AI-Powered Legal Assistance Platform
+####  AI-Powered Legal Assistance Platform
 Full-stack legal-tech platform with a RAG pipeline using **InLegalBERT + FAISS**, achieving **99%+ factual accuracy** on Indian Penal Code queries. Reduced legal document analysis from 90 min → 3 min.
 `React` `Node.js` `MongoDB` `LangChain` `FAISS` `Redis`
 
-#### 🎓 Placement Management System
+####  Placement Management System
 Recruitment platform with **Gemini AI** for resume screening and mock interviews. Deployed on AWS with full Terraform IaC and a Jenkins CI/CD pipeline — **50% faster deployment lifecycle**.
 `Node.js` `MongoDB` `AWS` `Terraform` `Jenkins` `Docker`
 
